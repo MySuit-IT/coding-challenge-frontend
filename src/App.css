@@ -36,3 +36,61 @@
     transform: rotate(360deg);
   }
 }
+
+#navbar {
+  padding: 20px;
+  background-color: lightgray;
+}
+
+#title {
+  color: orangered;
+  margin-top: 0
+}
+
+#nav {
+  list-style-type: none;
+  text-decoration: none;
+  padding: 0
+}
+
+.nav-item {
+  display: inline;
+  list-style-type: none;
+  margin: 5px;
+  padding: 4px;
+  border-radius: 25%;
+  border: 0in;
+}
+
+.nav-item:hover {
+  background-color: orangered;
+  color: white;
+  cursor: pointer
+}
+
+#theme-btn {
+  height: 25px;
+  width: 100px;
+  background-color: orangered;
+  color: white;
+  border: none;
+  margin-top: 20px;
+  position: absolute;
+  top: 5px;
+  right: 25px
+}
+
+#theme-btn:hover {
+  cursor:pointer;
+}
+
+#main {
+  text-align: left;
+  padding: 30px;
+  margin-top: 30px;
+  font-size: 30px;
+}
+
+span {
+  color: orangered
+}
