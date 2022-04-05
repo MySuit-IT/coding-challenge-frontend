@@ -7,7 +7,7 @@ const Page = () => {
       <div id="navbar">
         <button id="theme-btn">Dark Mode</button>
         <div id="title-div">
-          <h1 id="title">My.Suit</h1>
+          <h1 id="title">My.Suit Coding Challenge</h1>
         </div>
         <ul id="nav">
           <li className="nav-item">Home</li>
@@ -31,7 +31,10 @@ const Page = () => {
         <h2>Good luck!</h2>
       </div>
       <footer>
-        <p1>Style dark mode however you see fit for the challenge</p1>
+        <p1>Style dark mode however you see fit for the challenge.</p1>
+        <p1>
+          <span>My.Suit | Made to Measure</span>
+        </p1>
       </footer>
     </div>
   );

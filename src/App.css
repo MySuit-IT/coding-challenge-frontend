@@ -37,6 +37,21 @@
   }
 }
 
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  height: 100%;
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
 #navbar {
   padding: 20px;
   background-color: lightgray;
@@ -93,4 +108,18 @@
 
 span {
   color: orangered
+}
+
+footer {
+  background-color: lightgray;
+  height: 100px;
+  width: 100vw;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  box-sizing: border-box;
+  padding: 30px;
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
 }
