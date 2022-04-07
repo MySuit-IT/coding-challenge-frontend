@@ -29,6 +29,7 @@ const Page = () => {
           utalizing <span>React.js</span> features.
         </h2>
         <h2>Good luck!</h2>
+        <p1>Bonus if you use any new React 18 features!</p1>
       </div>
       <footer>
         <p1>Style dark mode however you see fit for the challenge.</p1>
