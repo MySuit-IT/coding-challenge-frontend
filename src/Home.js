@@ -1,7 +1,7 @@
 import React from "react";
 import "./App.css";
 
-const Page = () => {
+const Home = () => {
   return (
     <div className="container">
       <div id="navbar">
@@ -12,9 +12,6 @@ const Page = () => {
         <ul id="nav">
           <li className="nav-item">Home</li>
           <li className="nav-item">Orders</li>
-          <li className="nav-item">Fabrics</li>
-          <li className="nav-item">Settings</li>
-          <li className="nav-item">Logout</li>
         </ul>
       </div>
       <div id="main">
@@ -41,4 +38,4 @@ const Page = () => {
   );
 };
 
-export default Page;
+export default Home;

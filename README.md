@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# My.Suit Front End Coding Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Introduction
 
-## Available Scripts
+Thank you for your interest in My.Suit! We are a fast-growing company and are looking for someone with the drive and skills to help us grow. One of the most important skills that we ask candidates to have is expertise in React.js. Therefore, this challenge will be centered around React.js, but it should also give us a good indication of your skills in HTML/CSS and JavaScript.
 
-In the project directory, you can run:
+## The Challenege
 
-### `npm start`
+You have been provided with a starter React.js project with a homepage. Your tasks are as follows:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. The `Orders` page can be found in the navbar, however, there is no functionality to it. Create the `Orders` page that includes a table that pulls orders from `orders.json`. Style it however you think is best, but try to keep the overall theme.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+2. You will notice a `Dark Mode` button on the top right-hand corner of the homepage. This button has no functionality, so you are tasked with creating a dark mode for the project. When I click the button, the theme of the entire website should change to dark mode. When I press it again, it should revert to light mode. The dark mode styling is up to you.
 
-### `npm test`
+This project is meant to give you some creative freedom so we can evaluate not only your coding skills, but also your design skills.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Bonus Points
 
-### `npm run build`
+You have a chance to earn bonus points if you:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+1. Use any new features that recently came out with React 18.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+and/or
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2. Use TypeScript instead of regular JavaScript.
 
-### `npm run eject`
+## Submission
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+The project should be created into a **_private_** repository on GitHub. When you are finished and happy with the project, please invite the following GitHub account to be a collaborator on the project:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`cameronms`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Questions
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+If you have any questions, please feel free to contact me at:
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+cameron.cardinale@mysuitny.com
