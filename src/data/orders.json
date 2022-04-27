@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "orderNo": "ABC123-C",
+    "userID": 56,
+    "customer": "Cameron Cardinale",
+    "orderType": "Suit",
+    "price": 495,
+    "delivered": true
+  },
+  {
+    "id": 2,
+    "orderNo": "ABC678-B ALT",
+    "userID": 12,
+    "customer": "Daniel Kim",
+    "orderType": "Tuxedo",
+    "price": 999.95,
+    "delivered": true
+  },
+  {
+    "id": 3,
+    "orderNo": "BOF901-K",
+    "userID": 34,
+    "customer": "Mike Guerrieri",
+    "orderType": "Suit",
+    "price": 795,
+    "delivered": false
+  },
+  {
+    "id": 4,
+    "orderNo": "ELN723-B REC",
+    "userID": 56,
+    "customer": "Cameron Cardinale",
+    "orderType": "Dress Pants",
+    "price": 195,
+    "delivered": false
+  }
+]
