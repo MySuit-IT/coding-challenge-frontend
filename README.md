@@ -6,7 +6,7 @@ Thank you for your interest in My.Suit! We are a fast-growing company and are lo
 
 ## The Challenege 🏁
 
-You have been provided with a starter React.js project with a homepage. Your tasks are as follows:
+You have been provided with a starter React.js project with a homepage. Please clone this repository down to your local machine. Your tasks are as follows:
 
 1. The `Orders` page can be found in the navbar, however, there is no functionality to it. Create the `Orders` page that includes a table that pulls orders from `orders.json` and displays the order information how you see fit. Style it however you think is best, but try to keep the overall theme.
 
@@ -26,7 +26,7 @@ and/or
 
 ## Submission ✅
 
-The project should be created into a **_private_** repository on GitHub. When you are finished and happy with the project, please invite the following GitHub account to be a collaborator on the project:
+The cloned project should be created into a **_private_** repository on GitHub. When you are finished and happy with the project, please invite the following GitHub account to be a collaborator on the project:
 
 `cameronms`
 
