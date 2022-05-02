@@ -6,7 +6,8 @@
     "customer": "Cameron Cardinale",
     "orderType": "Suit",
     "price": 495,
-    "delivered": true
+    "delivered": false,
+    "status": "Ready"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "customer": "Daniel Kim",
     "orderType": "Tuxedo",
     "price": 999.95,
-    "delivered": true
+    "delivered": true,
+    "status": "Sent"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "customer": "Mike Guerrieri",
     "orderType": "Suit",
     "price": 795,
-    "delivered": false
+    "delivered": false,
+    "status": "Factory"
   },
   {
     "id": 4,
@@ -33,6 +36,27 @@
     "customer": "Cameron Cardinale",
     "orderType": "Dress Pants",
     "price": 195,
-    "delivered": false
+    "delivered": false,
+    "status": "Unfinished"
+  },
+  {
+    "id": 5,
+    "orderNo": "GDD457-B",
+    "userID": 23,
+    "customer": "John Doe",
+    "orderType": "Suit",
+    "price": 495,
+    "delivered": false,
+    "status": "Sent"
+  },
+  {
+    "id": 6,
+    "orderNo": "ELN723-B REC",
+    "userID": 34,
+    "customer": "Jane Doe",
+    "orderType": "Dress Pants",
+    "price": 195,
+    "delivered": false,
+    "status": "Ready"
   }
 ]
