@@ -10,9 +10,11 @@ You have been provided with a starter React.js project with a homepage. Please c
 
 1. The `Orders` page can be found in the navbar, however, there is no functionality to it. Create the `Orders` page that includes a table that pulls orders from `orders.json` and displays the order information how you see fit. Style it however you think is best, but try to keep the overall theme.
 
+   1. The `Orders` page should include a search feature, allowing users to search for specific order elements.
+
 2. You will notice a `Dark Mode` button on the top right-hand corner of the homepage. This button has no functionality, so you are tasked with creating a dark mode for the project. When I click the button, the theme of the entire website should change to dark mode. When I press it again, it should revert to light mode. The dark mode styling is up to you.
 
-This project is meant to give you some creative freedom so we can evaluate not only your coding skills, but also your design skills.
+This project is meant to give you some creative freedom so we can evaluate not only your coding skills, but also your design skills. Take this in to consideration when designing the new elements.
 
 ## Bonus Points ⚠️
 
